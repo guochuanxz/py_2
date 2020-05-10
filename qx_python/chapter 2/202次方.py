@@ -1,9 +1,10 @@
 __author__ = 'Damon'
 #coding=utf-8
-
+# 平方
+num1 = 3 ** 2
 # 立方
-num = 3 ** 3
-print(num)
+num2 = 3 ** 3
+print(num1)
 
 
 
