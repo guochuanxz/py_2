@@ -1,6 +1,7 @@
 __author__ = 'Damon'
 #coding=utf-8
-import turtle as t
+import turtle
+t = turtle.Pen()
 
 def drawCircle(color,x,y,size):
     t.pensize(5)

@@ -1,7 +1,9 @@
 __author__ = 'Damon'
 #coding=utf-8
 # 引入海归库给海龟库起别名
-import turtle as t
+import turtle
+t = turtle.Pen()
+
 t.pensize(5)
 # 画第一个圆
 t.color('black')

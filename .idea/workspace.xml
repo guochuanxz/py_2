@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275ac6d0-0355-442d-895a-105922729a57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/py_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/406奥运五环.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/407函数封装.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qx_python/chapter 8/803五星红旗.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/408画三角形并填充.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/409国旗.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/410五角星的两种画法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qx_python/chapter 4/402画正方形.py" beforeDir="false" afterPath="$PROJECT_DIR$/qx_python/chapter 4/402画正方形.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qx_python/chapter 4/406奥运五环.py" beforeDir="false" afterPath="$PROJECT_DIR$/qx_python/chapter 4/406奥运五环.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qx_python/chapter 4/407函数封装.py" beforeDir="false" afterPath="$PROJECT_DIR$/qx_python/chapter 4/407函数封装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qx_python/chapter 4/第四章.docx" beforeDir="false" afterPath="$PROJECT_DIR$/qx_python/chapter 4/第四章.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +42,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Python.407函数封装">
-    <configuration name="樱花" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.409国旗">
+    <configuration name="太阳花" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0215/樱花.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0215/太阳花.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,49 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="101第一个程序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 1/101第一个程序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="202次方" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 2/202次方.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="406奥运五环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="402画正方形" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 4/406奥运五环.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 4/402画正方形.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="太阳花" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="408画三角形并填充" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +114,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0215" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0215/太阳花.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 4/408画三角形并填充.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="409国旗" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 4/409国旗.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="410五角星的两种画法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 4/410五角星的两种画法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.409国旗" />
+        <item itemvalue="Python.410五角星的两种画法" />
+        <item itemvalue="Python.408画三角形并填充" />
+        <item itemvalue="Python.402画正方形" />
         <item itemvalue="Python.407函数封装" />
-        <item itemvalue="Python.406奥运五环" />
-        <item itemvalue="Python.202次方" />
-        <item itemvalue="Python.101第一个程序" />
-        <item itemvalue="Python.樱花" />
       </list>
     </recent_temporary>
   </component>
@@ -335,22 +332,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="546" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589111937705" />
-    <state width="1893" height="268" key="GridCell.Tab.0.bottom" timestamp="1589170205915">
+    <state width="1893" height="268" key="GridCell.Tab.0.bottom" timestamp="1589208780467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589170205915" />
-    <state width="1893" height="268" key="GridCell.Tab.0.center" timestamp="1589170205915">
+    <state width="1893" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589208780467" />
+    <state width="1893" height="268" key="GridCell.Tab.0.center" timestamp="1589208780467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589170205915" />
-    <state width="1893" height="268" key="GridCell.Tab.0.left" timestamp="1589170205915">
+    <state width="1893" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589208780467" />
+    <state width="1893" height="268" key="GridCell.Tab.0.left" timestamp="1589208780467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589170205915" />
-    <state width="1893" height="268" key="GridCell.Tab.0.right" timestamp="1589170205915">
+    <state width="1893" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589208780467" />
+    <state width="1893" height="268" key="GridCell.Tab.0.right" timestamp="1589208780467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589170205915" />
+    <state width="1893" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589208780467" />
     <state x="348" y="78" key="SettingsEditor" timestamp="1588851079237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -359,10 +356,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589111941356" />
-    <state x="593" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1589197844599">
+    <state x="593" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1589208820702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="593" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589197844599" />
+    <state x="593" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589208820702" />
     <state x="722" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588308821895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
