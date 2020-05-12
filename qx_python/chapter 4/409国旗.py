@@ -3,7 +3,7 @@ __author__ = 'Damon'
 import turtle
 t = turtle.Pen()
 # 定义画笔速度
-t.speed(10)
+t.speed(1)
 
 # 新建900X600像素的窗口,引入海龟库的Screen类
 window = turtle.Screen()

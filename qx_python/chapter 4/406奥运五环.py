@@ -32,5 +32,6 @@ t.penup()
 t.goto(55,-50)
 t.pendown()
 t.circle(50)
+t.hideturtle()
 
 
