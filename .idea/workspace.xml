@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275ac6d0-0355-442d-895a-105922729a57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/414六角星.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/415樱花.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/416小花.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qx_python/chapter 4/~$第四章.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qx_python/chapter 7/704list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/05数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/07序列的概念.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/08字符串的定义和使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/09字符串的常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/1001filter函数的应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/10元组的操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/11列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/13for循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/15for循环星座计算器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/16while循环星座计算器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/1701字典元素追加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/17字典的遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/1801变式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/18列表推导式和字典推导式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/~$学院python.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkxy_python/极客学院python.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qx_python/chapter 10/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qx_python/chapter 4/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/qx_python/chapter 4/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qx_python/chapter 4/第四章.docx" beforeDir="false" afterPath="$PROJECT_DIR$/qx_python/chapter 4/第四章.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jkxy_python/0410.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jkxy_python/0410wenjian.py" beforeDir="false" afterPath="$PROJECT_DIR$/jkxy_python/19文件操作.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +53,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Animate">
-    <configuration name="601for循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.18列表推导式和字典推导式">
+    <configuration name="国旗" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1227" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 6/601for循环.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1227/国旗.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="602两层for循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16while循环星座计算器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jkxy_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 6/602两层for循环.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jkxy_python/16while循环星座计算器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="704list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17字典的遍历" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jkxy_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 7/704list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jkxy_python/17字典的遍历.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Animate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1701字典元素追加" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jkxy_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 8/Animate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jkxy_python/1701字典元素追加.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="樱花" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18列表推导式和字典推导式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,32 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0215" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jkxy_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0215/樱花.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qx_python/chapter 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qx_python/chapter 4/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jkxy_python/18列表推导式和字典推导式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Animate" />
-        <item itemvalue="Python.704list" />
-        <item itemvalue="Python.602两层for循环" />
-        <item itemvalue="Python.601for循环" />
-        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.18列表推导式和字典推导式" />
+        <item itemvalue="Python.17字典的遍历" />
+        <item itemvalue="Python.1701字典元素追加" />
+        <item itemvalue="Python.国旗" />
+        <item itemvalue="Python.16while循环星座计算器" />
       </list>
     </recent_temporary>
   </component>
@@ -285,22 +274,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="546" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589296053101" />
-    <state width="1893" height="268" key="GridCell.Tab.0.bottom" timestamp="1589552668344">
+    <state width="1893" height="750" key="GridCell.Tab.0.bottom" timestamp="1589887084604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589552668344" />
-    <state width="1893" height="268" key="GridCell.Tab.0.center" timestamp="1589552668344">
+    <state width="1893" height="750" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589887084604" />
+    <state width="1893" height="750" key="GridCell.Tab.0.center" timestamp="1589887084603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589552668344" />
-    <state width="1893" height="268" key="GridCell.Tab.0.left" timestamp="1589552668344">
+    <state width="1893" height="750" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589887084603" />
+    <state width="1893" height="750" key="GridCell.Tab.0.left" timestamp="1589887084603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589552668344" />
-    <state width="1893" height="268" key="GridCell.Tab.0.right" timestamp="1589552668344">
+    <state width="1893" height="750" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589887084603" />
+    <state width="1893" height="750" key="GridCell.Tab.0.right" timestamp="1589887084604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589552668344" />
+    <state width="1893" height="750" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589887084604" />
     <state x="348" y="78" key="SettingsEditor" timestamp="1589464890089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -309,13 +298,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589296059185" />
-    <state x="593" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1589546991775">
+    <state x="593" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1589876268376">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="593" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589546991775" />
+    <state x="593" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589876268376" />
     <state x="722" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588308821895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588308821895" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1589884370181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589884370181" />
   </component>
 </project>
